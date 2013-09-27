@@ -47,3 +47,6 @@ http://make.wordpress.org/core/2013/08/06/a-new-frontier-for-core-development/)
 - [Lumbar](http://walmartlabs.github.io/lumbar/) ([Gruntfile](https://github.com/walmartlabs/lumbar/blob/master/Gruntfile.js))
 
 ### [Bazaarvoice](http://www.bazaarvoice.com/)
+
+### [Centroy](http://centroy.com/)
+- [Ramanonos](https://github.com/Ramanonos)
